@@ -1,0 +1,272 @@
+{
+  "version": "4.2.7",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "Staining/Discoloration",
+      "points": [
+        [
+          1393.0,
+          1368.875
+        ],
+        [
+          1433.625,
+          1656.375
+        ],
+        [
+          1724.25,
+          1653.25
+        ],
+        [
+          1889.875,
+          1487.625
+        ],
+        [
+          1530.5,
+          1278.25
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {
+        "Not in picture": false,
+        "Not in tissue": false
+      }
+    },
+    {
+      "label": "Moles",
+      "points": [
+        [
+          2724.25,
+          1103.25
+        ],
+        [
+          2724.25,
+          1150.125
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "circle",
+      "flags": {
+        "Not in picture": false,
+        "Not in tissue": false
+      }
+    },
+    {
+      "label": "Moles",
+      "points": [
+        [
+          1161.75,
+          2000.125
+        ],
+        [
+          1183.625,
+          2034.5
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "circle",
+      "flags": {
+        "Not in picture": false,
+        "Not in tissue": false
+      }
+    },
+    {
+      "label": "Stretch Marks",
+      "points": [
+        [
+          3318.0,
+          831.375
+        ],
+        [
+          3130.5,
+          606.375
+        ],
+        [
+          3139.875,
+          522.0
+        ],
+        [
+          3236.75,
+          606.375
+        ],
+        [
+          3311.75,
+          743.875
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {
+        "Not in picture": false,
+        "Not in tissue": false
+      }
+    },
+    {
+      "label": "Stretch Marks",
+      "points": [
+        [
+          2902.375,
+          528.25
+        ],
+        [
+          2908.625,
+          653.25
+        ],
+        [
+          2805.5,
+          531.375
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {
+        "Not in picture": false,
+        "Not in tissue": false
+      }
+    },
+    {
+      "label": "Stretch Marks",
+      "points": [
+        [
+          2730.5,
+          618.875
+        ],
+        [
+          2796.125,
+          731.375
+        ],
+        [
+          2811.75,
+          843.875
+        ],
+        [
+          2714.875,
+          775.125
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {
+        "Not in picture": false,
+        "Not in tissue": false
+      }
+    },
+    {
+      "label": "Stretch Marks",
+      "points": [
+        [
+          908.625,
+          697.0
+        ],
+        [
+          818.0,
+          753.25
+        ],
+        [
+          671.125,
+          947.0
+        ],
+        [
+          649.25,
+          909.5
+        ],
+        [
+          789.875,
+          668.875
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {
+        "Not in picture": false,
+        "Not in tissue": false
+      }
+    },
+    {
+      "label": "Stretch Marks",
+      "points": [
+        [
+          2243.0,
+          2065.75
+        ],
+        [
+          2402.375,
+          2175.125
+        ],
+        [
+          2361.75,
+          2203.25
+        ],
+        [
+          2243.0,
+          2115.75
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {
+        "Not in picture": false,
+        "Not in tissue": false
+      }
+    },
+    {
+      "label": "Stretch Marks",
+      "points": [
+        [
+          3018.0,
+          1506.375
+        ],
+        [
+          3102.375,
+          1562.625
+        ],
+        [
+          3033.625,
+          1597.0
+        ],
+        [
+          2993.0,
+          1528.25
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {
+        "Not in picture": false,
+        "Not in tissue": false
+      }
+    },
+    {
+      "label": "Stretch Marks",
+      "points": [
+        [
+          2083.625,
+          606.375
+        ],
+        [
+          1996.125,
+          715.75
+        ],
+        [
+          1964.875,
+          681.375
+        ],
+        [
+          2043.0,
+          584.5
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {
+        "Not in picture": false,
+        "Not in tissue": false
+      }
+    }
+  ],
+  "imagePath": "20200211-152949-Img.bmp",
+  "imageData": null,
+  "imageHeight": 3036,
+  "imageWidth": 4022
+}

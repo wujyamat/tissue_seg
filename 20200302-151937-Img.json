@@ -1,0 +1,67 @@
+{
+  "version": "4.2.7",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "Holes",
+      "points": [
+        [
+          1583.75,
+          1797.0
+        ],
+        [
+          1290.0,
+          2178.25
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "line",
+      "flags": {
+        "Not in picture": false,
+        "Not in tissue": false
+      }
+    },
+    {
+      "label": "Holes",
+      "points": [
+        [
+          1574.375,
+          1793.875
+        ],
+        [
+          1330.625,
+          1862.625
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "line",
+      "flags": {
+        "Not in picture": false,
+        "Not in tissue": false
+      }
+    },
+    {
+      "label": "Holes",
+      "points": [
+        [
+          1324.375,
+          1862.625
+        ],
+        [
+          1280.625,
+          2193.875
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "line",
+      "flags": {
+        "Not in picture": false,
+        "Not in tissue": false
+      }
+    }
+  ],
+  "imagePath": "20200302-151937-Img.bmp",
+  "imageData": null,
+  "imageHeight": 3036,
+  "imageWidth": 4022
+}

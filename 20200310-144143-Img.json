@@ -1,0 +1,574 @@
+{
+  "version": "4.2.7",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "Moles",
+      "points": [
+        [
+          1621.4137931034484,
+          1671.793103448276
+        ],
+        [
+          1628.3103448275863,
+          1678.689655172414
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "circle",
+      "flags": {
+        "Not in picture": false,
+        "Not in tissue": false,
+        "Review recommended": false
+      }
+    },
+    {
+      "label": "Moles",
+      "points": [
+        [
+          2514.5172413793107,
+          1147.6551724137933
+        ],
+        [
+          2517.9655172413795,
+          1151.103448275862
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "circle",
+      "flags": {
+        "Not in picture": false,
+        "Not in tissue": false,
+        "Review recommended": false
+      }
+    },
+    {
+      "label": "Moles",
+      "points": [
+        [
+          2528.3103448275865,
+          1313.1724137931035
+        ],
+        [
+          2528.3103448275865,
+          1320.0689655172414
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "circle",
+      "flags": {
+        "Not in picture": false,
+        "Not in tissue": false,
+        "Review recommended": false
+      }
+    },
+    {
+      "label": "Moles",
+      "points": [
+        [
+          2731.7586206896553,
+          1089.0344827586207
+        ],
+        [
+          2745.551724137931,
+          1099.3793103448277
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "circle",
+      "flags": {
+        "Not in picture": false,
+        "Not in tissue": false,
+        "Review recommended": false
+      }
+    },
+    {
+      "label": "Moles",
+      "points": [
+        [
+          2449.0,
+          561.4482758620691
+        ],
+        [
+          2449.0,
+          561.4482758620691
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "circle",
+      "flags": {
+        "Not in picture": false,
+        "Not in tissue": false,
+        "Review recommended": false
+      }
+    },
+    {
+      "label": "Moles",
+      "points": [
+        [
+          2597.2758620689656,
+          285.58620689655174
+        ],
+        [
+          2597.2758620689656,
+          285.58620689655174
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "circle",
+      "flags": {
+        "Not in picture": false,
+        "Not in tissue": false,
+        "Review recommended": false
+      }
+    },
+    {
+      "label": "Moles",
+      "points": [
+        [
+          1949.0000000000002,
+          899.3793103448277
+        ],
+        [
+          1949.0000000000002,
+          899.3793103448277
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "circle",
+      "flags": {
+        "Not in picture": false,
+        "Not in tissue": false,
+        "Review recommended": false
+      }
+    },
+    {
+      "label": "Moles",
+      "points": [
+        [
+          1300.7241379310346,
+          595.9310344827587
+        ],
+        [
+          1300.7241379310346,
+          595.9310344827587
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "circle",
+      "flags": {
+        "Not in picture": false,
+        "Not in tissue": false,
+        "Review recommended": false
+      }
+    },
+    {
+      "label": "Moles",
+      "points": [
+        [
+          1452.448275862069,
+          1747.6551724137933
+        ],
+        [
+          1452.448275862069,
+          1747.6551724137933
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "circle",
+      "flags": {
+        "Not in picture": false,
+        "Not in tissue": false,
+        "Review recommended": false
+      }
+    },
+    {
+      "label": "Moles",
+      "points": [
+        [
+          1542.103448275862,
+          1775.2413793103449
+        ],
+        [
+          1552.448275862069,
+          1775.2413793103449
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "circle",
+      "flags": {
+        "Not in picture": false,
+        "Not in tissue": false,
+        "Review recommended": false
+      }
+    },
+    {
+      "label": "Moles",
+      "points": [
+        [
+          1562.793103448276,
+          1251.103448275862
+        ],
+        [
+          1566.2413793103449,
+          1251.103448275862
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "circle",
+      "flags": {
+        "Not in picture": false,
+        "Not in tissue": false,
+        "Review recommended": false
+      }
+    },
+    {
+      "label": "Moles",
+      "points": [
+        [
+          1876.5862068965519,
+          1078.689655172414
+        ],
+        [
+          1880.034482758621,
+          1078.689655172414
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "circle",
+      "flags": {
+        "Not in picture": false,
+        "Not in tissue": false,
+        "Review recommended": false
+      }
+    },
+    {
+      "label": "Moles",
+      "points": [
+        [
+          2545.551724137931,
+          933.8620689655172
+        ],
+        [
+          2555.896551724138,
+          933.8620689655172
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "circle",
+      "flags": {
+        "Not in picture": false,
+        "Not in tissue": false,
+        "Review recommended": false
+      }
+    },
+    {
+      "label": "Moles",
+      "points": [
+        [
+          2666.241379310345,
+          447.65517241379314
+        ],
+        [
+          2666.241379310345,
+          447.65517241379314
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "circle",
+      "flags": {
+        "Not in picture": false,
+        "Not in tissue": false,
+        "Review recommended": false
+      }
+    },
+    {
+      "label": "Moles",
+      "points": [
+        [
+          2280.034482758621,
+          1347.6551724137933
+        ],
+        [
+          2286.9310344827586,
+          1347.6551724137933
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "circle",
+      "flags": {
+        "Not in picture": false,
+        "Not in tissue": false,
+        "Review recommended": false
+      }
+    },
+    {
+      "label": "Moles",
+      "points": [
+        [
+          2383.4827586206898,
+          1454.5517241379312
+        ],
+        [
+          2383.4827586206898,
+          1458.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "circle",
+      "flags": {
+        "Not in picture": false,
+        "Not in tissue": false,
+        "Review recommended": false
+      }
+    },
+    {
+      "label": "Moles",
+      "points": [
+        [
+          2631.7586206896553,
+          1682.1379310344828
+        ],
+        [
+          2631.7586206896553,
+          1682.1379310344828
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "circle",
+      "flags": {
+        "Not in picture": false,
+        "Not in tissue": false,
+        "Review recommended": false
+      }
+    },
+    {
+      "label": "Moles",
+      "points": [
+        [
+          2704.1724137931037,
+          1730.4137931034484
+        ],
+        [
+          2669.689655172414,
+          1730.4137931034484
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "circle",
+      "flags": {
+        "Not in picture": false,
+        "Not in tissue": false,
+        "Review recommended": false
+      }
+    },
+    {
+      "label": "Moles",
+      "points": [
+        [
+          2373.137931034483,
+          1816.6206896551726
+        ],
+        [
+          2376.586206896552,
+          1813.1724137931035
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "circle",
+      "flags": {
+        "Not in picture": false,
+        "Not in tissue": false,
+        "Review recommended": false
+      }
+    },
+    {
+      "label": "Staining/Discoloration",
+      "points": [
+        [
+          2435.206896551724,
+          626.9655172413794
+        ],
+        [
+          1980.034482758621,
+          875.2413793103449
+        ],
+        [
+          1900.7241379310346,
+          895.9310344827586
+        ],
+        [
+          1607.6206896551726,
+          1130.4137931034484
+        ],
+        [
+          1580.0344827586207,
+          1237.3103448275863
+        ],
+        [
+          1614.5172413793105,
+          1154.5517241379312
+        ],
+        [
+          1611.0689655172414,
+          1151.103448275862
+        ],
+        [
+          1611.0689655172414,
+          1151.103448275862
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {
+        "Not in picture": false,
+        "Not in tissue": false,
+        "Review recommended": false
+      }
+    },
+    {
+      "label": "Staining/Discoloration",
+      "points": [
+        [
+          2369.689655172414,
+          1685.5862068965519
+        ],
+        [
+          2369.689655172414,
+          1785.5862068965519
+        ],
+        [
+          2255.896551724138,
+          1623.5172413793105
+        ],
+        [
+          2342.1034482758623,
+          1592.4827586206898
+        ],
+        [
+          2342.1034482758623,
+          1585.5862068965519
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {
+        "Not in picture": false,
+        "Not in tissue": false,
+        "Review recommended": false
+      }
+    },
+    {
+      "label": "Staining/Discoloration",
+      "points": [
+        [
+          1983.4827586206898,
+          1061.448275862069
+        ],
+        [
+          2052.4482758620693,
+          1871.793103448276
+        ],
+        [
+          1797.2758620689656,
+          1882.1379310344828
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {
+        "Not in picture": false,
+        "Not in tissue": false,
+        "Review recommended": false
+      }
+    },
+    {
+      "label": "Staining/Discoloration",
+      "points": [
+        [
+          2793.8275862068967,
+          1168.344827586207
+        ],
+        [
+          2449.0,
+          1392.4827586206898
+        ],
+        [
+          2728.3103448275865,
+          1768.344827586207
+        ],
+        [
+          2721.4137931034484,
+          1754.5517241379312
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {
+        "Not in picture": false,
+        "Not in tissue": false,
+        "Review recommended": false
+      }
+    },
+    {
+      "label": "Staining/Discoloration",
+      "points": [
+        [
+          2007.6206896551726,
+          1133.8620689655174
+        ],
+        [
+          2476.586206896552,
+          833.8620689655173
+        ],
+        [
+          2493.8275862068967,
+          1016.6206896551726
+        ],
+        [
+          2442.1034482758623,
+          1489.0344827586207
+        ],
+        [
+          2407.6206896551726,
+          1454.5517241379312
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {
+        "Not in picture": false,
+        "Not in tissue": false,
+        "Review recommended": false
+      }
+    },
+    {
+      "label": "Staining/Discoloration",
+      "points": [
+        [
+          1721.4137931034484,
+          702.8275862068966
+        ],
+        [
+          1773.1379310344828,
+          954.5517241379312
+        ],
+        [
+          1352.448275862069,
+          675.2413793103449
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {
+        "Not in picture": false,
+        "Not in tissue": false,
+        "Review recommended": false
+      }
+    }
+  ],
+  "imagePath": "20200310-144143-Img.bmp",
+  "imageData": null,
+  "imageHeight": 3036,
+  "imageWidth": 4022
+}

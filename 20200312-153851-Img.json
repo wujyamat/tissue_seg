@@ -1,0 +1,142 @@
+{
+  "version": "4.2.7",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "Stretch Marks",
+      "points": [
+        [
+          1420.5,
+          1010.625
+        ],
+        [
+          1511.125,
+          1010.625
+        ],
+        [
+          1798.625,
+          1007.5
+        ],
+        [
+          1783.0,
+          1673.125
+        ],
+        [
+          1189.25,
+          1632.5
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {
+        "Not in picture": false,
+        "Not in tissue": false,
+        "Review recommended": false
+      }
+    },
+    {
+      "label": "Scars",
+      "points": [
+        [
+          2420.5,
+          1204.375
+        ],
+        [
+          2414.25,
+          1195.0
+        ],
+        [
+          2620.5,
+          1213.75
+        ],
+        [
+          2583.0,
+          1779.375
+        ],
+        [
+          2254.875,
+          1723.125
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {
+        "Not in picture": false,
+        "Not in tissue": false,
+        "Review recommended": false
+      }
+    },
+    {
+      "label": "Scars",
+      "points": [
+        [
+          2004.875,
+          1801.25
+        ],
+        [
+          2039.25,
+          1870.0
+        ],
+        [
+          2054.875,
+          1754.375
+        ],
+        [
+          1929.875,
+          1770.0
+        ],
+        [
+          1933.0,
+          1851.25
+        ],
+        [
+          2036.125,
+          1870.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {
+        "Not in picture": false,
+        "Not in tissue": false,
+        "Review recommended": false
+      }
+    },
+    {
+      "label": "Scars",
+      "points": [
+        [
+          1233.0,
+          1854.375
+        ],
+        [
+          1270.5,
+          1854.375
+        ],
+        [
+          1348.625,
+          1863.75
+        ],
+        [
+          1320.5,
+          1960.625
+        ],
+        [
+          1204.875,
+          1954.375
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {
+        "Not in picture": false,
+        "Not in tissue": false,
+        "Review recommended": false
+      }
+    }
+  ],
+  "imagePath": "20200312-153851-Img.bmp",
+  "imageData": null,
+  "imageHeight": 3036,
+  "imageWidth": 4022
+}

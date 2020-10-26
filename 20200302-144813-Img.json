@@ -1,0 +1,162 @@
+{
+  "version": "4.2.7",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "Var Thickness",
+      "points": [
+        [
+          3271.25,
+          1965.75
+        ],
+        [
+          2761.875,
+          2012.625
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "line",
+      "flags": {
+        "Not in picture": false,
+        "Not in tissue": false
+      }
+    },
+    {
+      "label": "Var Thickness",
+      "points": [
+        [
+          2868.125,
+          2581.375
+        ],
+        [
+          2790.0,
+          2022.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "line",
+      "flags": {
+        "Not in picture": false,
+        "Not in tissue": false
+      }
+    },
+    {
+      "label": "Var Thickness",
+      "points": [
+        [
+          3277.5,
+          1981.375
+        ],
+        [
+          3446.25,
+          2647.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "line",
+      "flags": {
+        "Not in picture": false,
+        "Not in tissue": false
+      }
+    },
+    {
+      "label": "Var Thickness",
+      "points": [
+        [
+          2855.625,
+          2590.75
+        ],
+        [
+          3477.5,
+          2618.875
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "line",
+      "flags": {
+        "Not in picture": false,
+        "Not in tissue": false
+      }
+    },
+    {
+      "label": "Staining/Discoloration",
+      "points": [
+        [
+          2227.5,
+          925.125
+        ],
+        [
+          1686.875,
+          2487.625
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "line",
+      "flags": {
+        "Not in picture": false,
+        "Not in tissue": false
+      }
+    },
+    {
+      "label": "Staining/Discoloration",
+      "points": [
+        [
+          2805.625,
+          1068.875
+        ],
+        [
+          2446.25,
+          2590.75
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "line",
+      "flags": {
+        "Not in picture": false,
+        "Not in tissue": false
+      }
+    },
+    {
+      "label": "Staining/Discoloration",
+      "points": [
+        [
+          2240.0,
+          931.375
+        ],
+        [
+          2799.375,
+          1065.75
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "line",
+      "flags": {
+        "Not in picture": false,
+        "Not in tissue": false
+      }
+    },
+    {
+      "label": "Staining/Discoloration",
+      "points": [
+        [
+          1680.625,
+          2506.375
+        ],
+        [
+          2433.75,
+          2578.25
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "line",
+      "flags": {
+        "Not in picture": false,
+        "Not in tissue": false
+      }
+    }
+  ],
+  "imagePath": "20200302-144813-Img.bmp",
+  "imageData": null,
+  "imageHeight": 3036,
+  "imageWidth": 4022
+}
